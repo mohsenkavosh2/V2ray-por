@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://shopnet.mohsenkavosh27534.workers.dev/$1"
+    }
+  ]
+}
